@@ -23,6 +23,7 @@ Welcome to the **Smart Home Energy Dashboard** – a Java-based simulation of a 
 2. Compile and run:
    ```bash
    javac SmartHomeDashboard.java
+   
    java smarthome.SmartHomeDashboard
    ```
 
@@ -45,11 +46,3 @@ SmartHomeEnergyDashboard/
 ## 💡 Why this matters
 
 This project supports energy efficiency and sustainable living 🌿. It's a perfect portfolio piece to showcase your understanding of Java, simulations, and environmental awareness.
-
-## 🧑‍💻 Author
-
-Built with innovation and care ❤️
-
----
-
-> ♻️ Simulate smart. Live smart. Save smart.
